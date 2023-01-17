@@ -1,2 +1,2 @@
 # Simple-Ludio-Calculator
-Just Practicing Javascript
+A simple Calculator that can Calculate simple Mathematical Function Such as Addition, Subtraction, Multiplication, Division
